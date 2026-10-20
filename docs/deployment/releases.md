@@ -31,3 +31,13 @@
 ## 남은 과제 항목
 
 별도 근거 자료는 사용자가 추후 제공 예정입니다. 공개 저장·배포 완료가 과제 최종 제출이나 승인 완료를 뜻하지 않습니다.
+
+## 2026-10-20 · 자기소개 확정본 배포
+
+- 웹 코드: 2839cd2b1bacf4f8aa0629ba387186983a2670de (main push).
+- Vercel 자동 배포: dpl_CiCVDnNwazdy9eETJqoB53XagoDQ, Production Ready.
+- 운영 주소: https://project-apprenticeship-01.vercel.app
+- 자동 검사 6개·빌드 통과. 로그인 없는 HTTP 200 및 운영 HTML·CSS와 로컬 원본 일치 확인.
+- 이번 배포에서 브라우저 상호작용 검사는 재실시하지 않음. 근거 자료 연결은 계속 대기.
+- 제출 소스 고정 URL을 위 웹 코드 커밋으로 갱신. 후속 문서 커밋은 웹 코드 변경 없음.
+
