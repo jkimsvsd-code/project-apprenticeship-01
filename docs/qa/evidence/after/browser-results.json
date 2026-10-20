@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-20",
+  "environment": "Codex in-app Chromium; localhost:5173; not public deployment",
+  "desktop": {
+    "overflow": false,
+    "regions": [
+      {
+        "bottom": 411,
+        "id": "intro",
+        "top": 64
+      },
+      {
+        "bottom": 661.765625,
+        "id": "experiences",
+        "top": 411
+      },
+      {
+        "bottom": 762.953125,
+        "id": "evidence",
+        "top": 679.765625
+      }
+    ],
+    "scrollY": 0,
+    "viewport": [
+      1366,
+      768
+    ]
+  },
+  "largeDesktop": {
+    "viewport": [
+      1920,
+      1080
+    ],
+    "overflow": false,
+    "evidenceBottom": 995.765625
+  },
+  "mobile": [
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "overflow": false
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "overflow": false
+    }
+  ],
+  "interactions": [
+    {
+      "index": 1,
+      "mouseOpen": true,
+      "enterCloses": true,
+      "spaceOpens": true
+    },
+    {
+      "index": 2,
+      "mouseOpen": true,
+      "enterCloses": true,
+      "spaceOpens": true
+    },
+    {
+      "index": 3,
+      "mouseOpen": true,
+      "enterCloses": true,
+      "spaceOpens": true
+    }
+  ],
+  "tabOrder": [
+    {
+      "name": "본문으로 이동",
+      "outline": "3px",
+      "tag": "A"
+    },
+    {
+      "name": "J 소개로 이동",
+      "outline": "3px",
+      "tag": "A"
+    },
+    {
+      "name": "경험",
+      "outline": "3px",
+      "tag": "A"
+    },
+    {
+      "name": "근거와 기록",
+      "outline": "3px",
+      "tag": "A"
+    },
+    {
+      "name": "배우는 태도",
+      "outline": "3px",
+      "tag": "A"
+    },
+    {
+      "name": "제가 일하고 배우는 방식 ↘",
+      "outline": "3px",
+      "tag": "A"
+    },
+    {
+      "name": "질문을 구조의 개선으로 — 상황과 행동 살펴보기",
+      "outline": "3px",
+      "tag": "SUMMARY"
+    },
+    {
+      "name": "서비스의 의도를 화면으로 — 상황과 행동 살펴보기",
+      "outline": "3px",
+      "tag": "SUMMARY"
+    },
+    {
+      "name": "시도를 나만의 기준으로 — 상황과 행동 살펴보기",
+      "outline": "3px",
+      "tag": "SUMMARY"
+    },
+    {
+      "name": "처음으로 ↑",
+      "outline": "3px",
+      "tag": "A"
+    }
+  ],
+  "links": [
+    {
+      "href": "#main",
+      "url": "http://localhost:5173/#main"
+    },
+    {
+      "href": "#intro",
+      "url": "http://localhost:5173/#intro"
+    },
+    {
+      "href": "#experiences",
+      "url": "http://localhost:5173/#experiences"
+    },
+    {
+      "href": "#evidence",
+      "url": "http://localhost:5173/#evidence"
+    },
+    {
+      "href": "#approach",
+      "url": "http://localhost:5173/#approach"
+    },
+    {
+      "href": "#experiences",
+      "url": "http://localhost:5173/#experiences"
+    },
+    {
+      "href": "#intro",
+      "url": "http://localhost:5173/#intro"
+    }
+  ],
+  "console": []
+}
