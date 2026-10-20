@@ -5,7 +5,7 @@
 ## 제출 URL
 
 결과물 URL: https://project-apprenticeship-01.vercel.app
-소스 고정 URL: https://github.com/jkimsvsd-code/project-apprenticeship-01/tree/2839cd2b1bacf4f8aa0629ba387186983a2670de
+소스 고정 URL: https://github.com/jkimsvsd-code/project-apprenticeship-01/tree/679728da6dd59c0ef32af9a8c3a0bf51396e721b
 
 이 소스는 확정한 자기소개와 복원된 디자인이 반영된 웹 코드입니다. 2026-10-20 운영 HTML·CSS가 이 소스와 일치함을 확인했습니다.
 
