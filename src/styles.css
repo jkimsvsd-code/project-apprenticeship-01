@@ -82,3 +82,12 @@ dd { margin:0; color:var(--muted); }
   .card-summary { margin-bottom:8px; }
   .evidence { margin-top:18px; padding:16px 0; }
 }
+
+/* 추가된 자기소개 내용의 배치: 원격 디자인의 색과 서체를 따릅니다. */
+.approach-copy { color:var(--muted); font-size:13px; }
+.approach-copy > p { margin:0 0 18px; }
+.habits { margin:0; display:grid; grid-template-columns:110px 1fr; gap:10px 12px; }
+.habits dt { margin:0; color:var(--ink); }
+.habits dd { margin:0; }
+@media (max-width:800px) { .habits { grid-template-columns:1fr; gap:4px; } .habits dd { margin-bottom:12px; } }
+.quiet-note { margin:24px 0 0; padding-left:16px; border-left:2px solid var(--line); color:var(--muted); font-size:14px; line-height:1.9; }
