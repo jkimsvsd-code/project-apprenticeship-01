@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-20",
+  "url": "https://project-apprenticeship-01.vercel.app/",
+  "codeCommit": "b6682984c5f5d607998fb7046f11e7032f675ad3",
+  "screens": [
+    {
+      "overflow": false,
+      "regions": [
+        {
+          "bottom": 411,
+          "id": "intro",
+          "top": 64
+        },
+        {
+          "bottom": 661.765625,
+          "id": "experiences",
+          "top": 411
+        },
+        {
+          "bottom": 762.953125,
+          "id": "evidence",
+          "top": 679.765625
+        }
+      ],
+      "scrollY": 0,
+      "viewport": [
+        1366,
+        768
+      ]
+    },
+    {
+      "overflow": false,
+      "regions": [
+        {
+          "bottom": 580.625,
+          "id": "intro",
+          "top": 80
+        },
+        {
+          "bottom": 856.578125,
+          "id": "experiences",
+          "top": 580.625
+        },
+        {
+          "bottom": 995.765625,
+          "id": "evidence",
+          "top": 888.578125
+        }
+      ],
+      "scrollY": 0,
+      "viewport": [
+        1920,
+        1080
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "experience": 1,
+      "clickOpen": true,
+      "enterClose": true,
+      "spaceOpen": true
+    },
+    {
+      "experience": 2,
+      "clickOpen": true,
+      "enterClose": true,
+      "spaceOpen": true
+    },
+    {
+      "experience": 3,
+      "clickOpen": true,
+      "enterClose": true,
+      "spaceOpen": true
+    }
+  ],
+  "console": [],
+  "anonymousHttp": {
+    "site": 200,
+    "source": 200,
+    "siteMatchesLocalHtml": true
+  },
+  "ci": "https://github.com/jkimsvsd-code/project-apprenticeship-01/actions/runs/39358791785"
+}

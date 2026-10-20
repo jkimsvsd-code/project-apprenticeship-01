@@ -2,7 +2,7 @@
 
 ALEPH T01을 수행하는 개인 소개 사이트 프로젝트입니다. 공개 범위를 직접 정하고, 실제 경험과 근거로 자신을 소개하며, 구현·검증·배포·판단 과정을 기록합니다.
 
-현재 상태: 실제 소개 페이지 구현 및 로컬 검증 완료. 근거 자료는 추후 제공 예정입니다. GitHub 원격 저장소와 Vercel 배포는 아직 연결하지 않았습니다.
+현재 상태: 실제 소개 페이지 구현 및 로컬 검증 완료. 근거 자료는 추후 제공 예정입니다. GitHub 공개 저장소와 Vercel 운영 배포를 연결하고 공개 화면을 검증했습니다.
 
 ## 시작하기
 
@@ -28,8 +28,11 @@ npm run build
 - [배포 안내](docs/deployment/setup.md) / [배포 이력](docs/deployment/releases.md)
 - [최종 제출 초안](docs/submission/final.md)
 
-공개 사이트 URL: 미정 · GitHub URL: 미정
+공개 사이트: https://project-apprenticeship-01.vercel.app
+
+GitHub: https://github.com/jkimsvsd-code/project-apprenticeship-01
+
+검증한 소스 고정 URL: https://github.com/jkimsvsd-code/project-apprenticeship-01/tree/b6682984c5f5d607998fb7046f11e7032f675ad3
 
 
 브라우저 검사 결과와 스크린샷은 [검증 기록](docs/qa/checklist.md), 근거 추가 방법은 [추가 안내](docs/evidence-guide.md)를 참고하세요. 자동 검사 6개는 정적 구조·대비율·빌드 회귀 검사이며 실제 브라우저 검사는 별도 기록입니다.
-

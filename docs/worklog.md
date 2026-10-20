@@ -45,3 +45,13 @@
 - 개인 이름·이메일이 커밋에 포함되지 않도록 이 저장소에 한해 작성자를 J와 GitHub noreply 주소로 설정.
 - Vercel 빌드 설정을 vercel.json에 고정. docs와 tests 등은 .vercelignore로 배포 업로드에서 제외하고 GitHub에는 기록 유지.
 - 배포 전 자동 검사 6개 및 빌드 성공. 배포 결과·공개 검증은 후속 기록에 추가.
+
+## 2026-10-20 · 운영 배포 완료
+
+- 첫 커밋 b6682984c5f5d607998fb7046f11e7032f675ad3을 GitHub 공개 main에 push.
+- Vercel CLI로 프로젝트 생성 및 GitHub 연동 후 운영 배포 READY 확인.
+- 운영 URL: https://project-apprenticeship-01.vercel.app
+- GitHub CI 성공, 로그인 없는 HTTP 접근 및 배포 HTML 일치 확인.
+- 공개 화면 기준 해상도·경험 상호작용·콘솔 재검사 완료. 증거와 배포 이력을 저장.
+- Git 작성자 설정과 외부 네트워크 실행에는 실행 환경의 권한 승인이 필요했으며 승인 후 완료. 계정 로그인 요청은 필요하지 않았음.
+- 이 후속 기록은 배포 코드와 구분하여 커밋·push합니다. 근거 자료 및 과제 최종 제출은 남아 있음.
