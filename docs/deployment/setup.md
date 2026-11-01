@@ -3,7 +3,7 @@
 2026-10-20 연결 및 첫 운영 배포 완료.
 
 - GitHub 공개 저장소: https://github.com/jkimsvsd-code/project-apprenticeship-01
-- 운영 사이트: https://project-apprenticeship-01.vercel.app
+- 운영 사이트: https://kimjaey.vercel.app
 - Vercel 프로젝트: `jkimsvsd-code/project-apprenticeship-01`
 - Git 연동: 위 GitHub 저장소 연결 완료. main의 후속 push는 운영 자동 배포 대상.
 - 프레임워크: Other (정적 사이트)

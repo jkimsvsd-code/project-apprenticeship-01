@@ -50,7 +50,7 @@
 
 - 첫 커밋 b6682984c5f5d607998fb7046f11e7032f675ad3을 GitHub 공개 main에 push.
 - Vercel CLI로 프로젝트 생성 및 GitHub 연동 후 운영 배포 READY 확인.
-- 운영 URL: https://project-apprenticeship-01.vercel.app
+- 운영 URL: https://kimjaey.vercel.app
 - GitHub CI 성공, 로그인 없는 HTTP 접근 및 배포 HTML 일치 확인.
 - 공개 화면 기준 해상도·경험 상호작용·콘솔 재검사 완료. 증거와 배포 이력을 저장.
 - Git 작성자 설정과 외부 네트워크 실행에는 실행 환경의 권한 승인이 필요했으며 승인 후 완료. 계정 로그인 요청은 필요하지 않았음.
@@ -103,3 +103,8 @@
 - 자동 검사 6개, 빌드, diff 공백 검사 통과. 개인정보 점검 범위와 결과는 로컬 통합 기록에 보관.
 - 사용자 요청에 따라 커밋·푸시 및 운영 배포 진행. 결과는 deployment/releases.md에 후속 기록.
 
+
+### 2026-11-01 운영 주소 변경
+- 사용자 요청: 운영 주소를 https://kimjaey.vercel.app 으로 통일하고 README.md는 수정하지 않음.
+- 배포·제출·QA 문서와 운영 증거 JSON의 주소 참조 9곳을 업데이트함.
+- 검증: README.md 변경 없음, 나머지 추적 파일에서 기존 Vercel 주소 참조 없음, git diff --check 통과. 기능 변경 없음. 과거 QA 기록의 주소 변경은 새 브라우저 검사 수행을 의미하지 않음.

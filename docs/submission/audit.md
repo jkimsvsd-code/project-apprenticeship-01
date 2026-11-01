@@ -31,7 +31,7 @@ C02는 원래 과제 안내에서 확인되지 않아 추정하지 않았습니�
 
 ## 제출 URL 기준
 
-- 결과물: https://project-apprenticeship-01.vercel.app
+- 결과물: https://kimjaey.vercel.app
 - 소스: https://github.com/jkimsvsd-code/project-apprenticeship-01/tree/ad258fc24b087935f2eccc48c12138209b2cbbe5
 - 점검 기준 커밋 ad258fc는 배포·검증 기록을 포함합니다. 최초 검증 커밋 b668298과 웹 파일(index.html, src, public, scripts, package 파일, vercel.json)의 차이가 없음을 git diff로 확인했습니다.
 - 이후 자료나 웹 코드를 수정하면 새 배포와 일치하는 full commit URL로 갱신해야 합니다.

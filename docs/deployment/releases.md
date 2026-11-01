@@ -4,10 +4,10 @@
 
 - 결과 확인 시각: 2026-10-20 11:27 KST (정확한 배포 시작 시각이 아닌 검증 기록 시각).
 - 배포 코드: `b6682984c5f5d607998fb7046f11e7032f675ad3`
-- 운영 URL: https://project-apprenticeship-01.vercel.app
+- 운영 URL: https://kimjaey.vercel.app
 - 고정 소스 URL: https://github.com/jkimsvsd-code/project-apprenticeship-01/tree/b6682984c5f5d607998fb7046f11e7032f675ad3
 - 배포 ID: `dpl_BMGdTSy4to4ercEpxUd2iDdmfynH`
-- 배포별 URL (인증 보호될 수 있음): https://project-apprenticeship-01-faq02r93n-jkimsvsd-code.vercel.app
+- 배포별 URL (인증 보호될 수 있음): https://kimjaey.vercel.app
 - CLI 결과: READY, production, 운영 도메인 연결 성공.
 - GitHub CI: 성공 — https://github.com/jkimsvsd-code/project-apprenticeship-01/actions/runs/39358791785
 
@@ -36,7 +36,7 @@
 
 - 웹 코드: 2839cd2b1bacf4f8aa0629ba387186983a2670de (main push).
 - Vercel 자동 배포: dpl_CiCVDnNwazdy9eETJqoB53XagoDQ, Production Ready.
-- 운영 주소: https://project-apprenticeship-01.vercel.app
+- 운영 주소: https://kimjaey.vercel.app
 - 자동 검사 6개·빌드 통과. 로그인 없는 HTTP 200 및 운영 HTML·CSS와 로컬 원본 일치 확인.
 - 이번 배포에서 브라우저 상호작용 검사는 재실시하지 않음. 근거 자료 연결은 계속 대기.
 - 제출 소스 고정 URL을 위 웹 코드 커밋으로 갱신. 후속 문서 커밋은 웹 코드 변경 없음.
